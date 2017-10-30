@@ -1,0 +1,19 @@
+{
+  "name": "require-text",
+  "version": "2.0.15",
+  "description": "An AMD loader plugin for loading text resources.",
+  "main": "dist/text.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/requirejs/text.git"
+  },
+  "author": "github.com/jrburke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/requirejs/text/issues"
+  },
+  "homepage": "https://github.com/requirejs/text#readme"
+}
